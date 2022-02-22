@@ -1,0 +1,5 @@
+{
+  "publishedAt": "1st Jan 2022",
+  "title": "如何安装绿洲补丁更新",
+  "content": "# 方式1 - 自动检测与安装\n1. 下载绿洲基础包后，打开PCL启动器，点击 **检查更新** 按钮，以启动Oasis更新程序。\n2. 更新程序启动后，请选择 **检测入门包更新**\n3. 等待程序检测更新并安装更新\n# 方式2 - Github手动安装\n1. 点击下方按钮获取补丁包\n2. 手动打开exe并安装\n> 2022.02.22 我们正在设计全新的补丁包安装方式，敬请期待！\n\n补丁包获取：[![](https://data.jsdelivr.com/v1/package/gh/lynnguo666-personal/oasisgame/badge)](https://www.jsdelivr.com/package/gh/lynnguo666-personal/oasisgame)"
+}
