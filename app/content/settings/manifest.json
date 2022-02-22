@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
+  "name": "绿洲Oasis",
+  "shortName": "Oasis",
+  "description": "A Minecraft Server",
+  "themeColor": "#00FFFFR",
   "backgroundColor": "#ffffff",
-  "lang": "en"
+  "lang": "zh-CN"
 }
