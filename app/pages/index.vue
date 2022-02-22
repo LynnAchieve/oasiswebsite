@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="blob:https://oasis.mclg6.ml/5310c7cf-7d8a-45ae-992f-9702ffa4dc52"
+          src="https://s4.ax1x.com/2022/02/22/Hzgat0.png"
         />
       </div>
     </div>
