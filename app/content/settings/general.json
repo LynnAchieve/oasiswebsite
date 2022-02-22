@@ -1,7 +1,7 @@
 {
   "title": "主页",
   "titleTemplate": "| 绿洲Oasis",
-  "welcomeText": "# MC公益服务器\n\n一款多元化的MC公益服务器，包含小游戏，生存，RPG，创造等多种玩法的群组服务器",
+  "welcomeText": "# MC公益服务器\n\n一款多元化的MC公益服务器，包含小游戏，生存，RPG，创造等多种玩法的群组服务器\n\n在下方填写邮箱来订阅我们的最新消息！",
   "logo": "/images/uploads/oasis2.png",
   "icon": "/images/uploads/oasis2.png",
   "loadingColor": "#0b3765",
