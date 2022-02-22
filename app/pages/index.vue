@@ -20,7 +20,7 @@
               class="appearance-none mb-36 bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
               type="text"
               name="email"
-              placeholder="输入邮箱以订阅新闻,例：your@email.com"
+              placeholder="输入邮箱以订阅新闻"
               aria-label="Email address"
             />
 
@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://source.unsplash.com/random/720x400"
+          src="blob:https://oasis.mclg6.ml/5310c7cf-7d8a-45ae-992f-9702ffa4dc52"
         />
       </div>
     </div>
