@@ -5,7 +5,7 @@
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
 
         <div class="mb-12 xl:mb-0">
-          <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
+          <h4 v-if="isSignedUp">感谢，我们将尽快与你联系</h4>
 
           <form
             v-else
@@ -20,7 +20,7 @@
               class="appearance-none mb-36 bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
               type="text"
               name="email"
-              placeholder="your@email.com"
+              placeholder="输入邮箱以订阅新闻,例：your@email.com"
               aria-label="Email address"
             />
 
